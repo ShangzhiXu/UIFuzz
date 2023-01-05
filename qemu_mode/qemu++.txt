@@ -1,0 +1,18 @@
+This is hello from qemu!_s.so.1
+7f1d8d552000-7f1d8d560000 r--p 00000000 08:03 927774                     /usr/lib/x86_64-linux-gnu/libm.so.6
+7f1d8d560000-7f1d8d5dc000 r-xp 0000e000 08:03 92777
+afl_setup
+afl_forkserver
+afl_setup
+afl_forkserver
+afl_setup
+afl_forkserver
+afl_setup
+afl_forkserver
+/x86_64-linux-gnu/libgcc_s.so.1
+7f3a9c548000-7f3a9c556000 r--p 00000000 08:03 927774                     /usr/lib/x86_64-linux-gnu/libm.so.6
+7f3a9c556000-7f3a9c5d2000 r-xp 0000e000 08:03 92777
+afl_setup
+afl_forkserver
+afl_setup
+afl_forkserver

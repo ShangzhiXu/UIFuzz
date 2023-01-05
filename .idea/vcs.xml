@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/nyx_mode/QEMU-Nyx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nyx_mode/libnyx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nyx_mode/packer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/qemu_mode/qemuafl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/qemu_mode/qemuafl/capstone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/qemu_mode/qemuafl/meson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/qemu_mode/qemuafl/slirp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/qemu_mode/qemuafl/tests/fp/berkeley-softfloat-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/qemu_mode/qemuafl/tests/fp/berkeley-testfloat-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/qemu_mode/qemuafl/ui/keycodemapdb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/unicorn_mode/unicornafl" vcs="Git" />
+  </component>
+</project>
